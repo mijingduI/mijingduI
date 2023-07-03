@@ -1,16 +1,22 @@
-### Hi there 👋
+<a href="https://github.com/mijingduI/">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mijingduI&theme=algolia&count_private=true&show_icons=true" />
+</a>
 
-<!--
-**mijingduI/mijingduI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/mijingduI/">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mijingduI&layout=compact" />
+</a>
 
-Here are some ideas to get you started:
+## Hello World 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Beijing
+- 💬 You can ask me about java
+- 📫 How to reach me: <https://mijingdui.github.io/>
+- 😄 Pronouns: youngkbt
+- ⚡ Fun fact: 🏀 & 🏃‍ & 💻
+- :meat_on_bone: Meat lover
+
+  
+## My Blog Websites
+
+- GitHub Pages(fast)：<https://mijingdui.github.io/>
+
