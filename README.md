@@ -8,7 +8,7 @@
 
 ## Hello World 👋
 
-- 🔭 I’m currently working on Beijing
+- 🔭 I’m currently working on Shenzhen
 - 💬 You can ask me about java
 - 📫 How to reach me: <https://mijingdui.github.io/>
 - 😄 Pronouns: youngkbt
