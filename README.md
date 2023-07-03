@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Shenzhen
 - 💬 You can ask me about java
 - 📫 How to reach me: <https://mijingdui.github.io/>
-- 😄 Pronouns: youngkbt
+- 😄 Pronouns: 阿星
 - ⚡ Fun fact: 🏀 & 🏃‍ & 💻
 - :meat_on_bone: Meat lover
 
